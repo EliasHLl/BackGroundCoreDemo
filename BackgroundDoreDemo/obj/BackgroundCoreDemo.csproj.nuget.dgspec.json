@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\elias\\Source\\Repos\\BackgroundDoreDemo\\BackgroundDoreDemo\\BackgroundCoreDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\elias\\Source\\Repos\\BackgroundDoreDemo\\BackgroundDoreDemo\\BackgroundCoreDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\elias\\Source\\Repos\\BackgroundDoreDemo\\BackgroundDoreDemo\\BackgroundCoreDemo.csproj",
+        "projectName": "BackgroundCoreDemo",
+        "projectPath": "C:\\Users\\elias\\Source\\Repos\\BackgroundDoreDemo\\BackgroundDoreDemo\\BackgroundCoreDemo.csproj",
+        "packagesPath": "C:\\Users\\elias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elias\\Source\\Repos\\BackgroundDoreDemo\\BackgroundDoreDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\package": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
